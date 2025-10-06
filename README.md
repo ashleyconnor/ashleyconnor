@@ -20,18 +20,14 @@
 
 ---
 
+## Personal Code of Conduct
 
-<!--
-**ashleyconnor/ashleyconnor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+These are some guidelines I attempt to follow when interacting with people on GitHub:
 
-Here are some ideas to get you started:
+* Respect and Dignity: Treat all people with respect, regardless of identity, background, or belief.
+* Good Faith: Assume others are engaging in good faith unless proven otherwise.
+* Charitable Interpretation: When in doubt, interpret others’ words in the most reasonable and charitable way possible.
+* Integrity: Speak truthfully, admit when I’m wrong, and avoid misleading or manipulative behavior.
+* Empathy: Strive to understand the perspectives and emotions behind others’ words before responding.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+It's my opinion that GitHub is better when people follow the principles above.
